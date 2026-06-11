@@ -1,0 +1,6 @@
+{
+  "name": "Click Buy",
+  "description": "Click Buy | Online Shopping for Electronics, Fashion & Lifestyle. Discover trending products, best offers, and secure shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
